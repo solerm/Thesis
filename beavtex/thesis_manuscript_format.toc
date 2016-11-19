@@ -1,0 +1,31 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Vacuum Arc Remelting}{1}
+\contentsline {section}{\numberline {1.2}Arc Position Sensing}{1}
+\contentsline {section}{\numberline {1.3}Motivation}{1}
+\contentsline {section}{\numberline {1.4}The manuscripts}{1}
+\contentsline {chapter}{\numberline {2}Manuscript 1}{3}
+\contentsline {section}{\numberline {2.1}Abstract}{3}
+\contentsline {section}{\numberline {2.2}Introduction}{3}
+\contentsline {section}{\numberline {2.3}Methodology}{6}
+\contentsline {section}{\numberline {2.4}Results and discussion}{13}
+\contentsline {subsection}{\numberline {2.4.1}Effect of vertical sensor position}{13}
+\contentsline {subsection}{\numberline {2.4.2}Effect of gap size}{16}
+\contentsline {subsection}{\numberline {2.4.3}Effect of ingot shrinkage}{18}
+\contentsline {subsection}{\numberline {2.4.4}Effect of using multiple sensors}{19}
+\contentsline {section}{\numberline {2.5}Conclusions}{20}
+\contentsline {chapter}{\numberline {3}Manuscript 2}{26}
+\contentsline {section}{\numberline {3.1}Abstract}{26}
+\contentsline {section}{\numberline {3.2}Introduction}{26}
+\contentsline {section}{\numberline {3.3}Methodology}{26}
+\contentsline {subsection}{\numberline {3.3.1}Governing Equations}{26}
+\contentsline {subsubsection}{\numberline {3.3.1.1}Continuity and Momentum}{26}
+\contentsline {subsubsection}{\numberline {3.3.1.2}Turbulence}{27}
+\contentsline {subsubsection}{\numberline {3.3.1.3}Solidification}{28}
+\contentsline {subsection}{\numberline {3.3.2}Meshing and Boundary Conditions}{28}
+\contentsline {section}{\numberline {3.4}Results}{28}
+\contentsline {section}{\numberline {3.5}Conclusion}{28}
+\contentsline {chapter}{\numberline {4}Conclusion}{29}
+\contentsline {section}{\numberline {4.1}Fin}{29}
+\contentsline {chapter}{Bibliography}{29}
+\contentsline {chapter}{Appendices}{30}
+\contentsline {app}{\numberline {A}Redundancy}{31}

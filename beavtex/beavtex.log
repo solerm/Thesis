@@ -1,0 +1,62 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 NOV 2016 16:55
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**beavtex.cls
+(./beavtex.cls
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+
+LaTeX Warning: You have requested package `',
+               but the package provides `beavtex'.
+
+Package: beavtex 2011/10/01 v1.0 BeavTeX: OSU thesis class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box26
+\UL@hyphenbox=\box27
+\UL@skip=\skip41
+\UL@hook=\toks14
+\UL@height=\dimen102
+\UL@pe=\count79
+\UL@pixel=\dimen103
+\ULC@box=\box28
+Package: ulem 2012/05/18
+\ULdepth=\dimen104
+)
+
+./beavtex.cls:69: LaTeX Error: Command \@ already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \newcommand{\@ftsize}{}
+                            
+? 
+./beavtex.cls:69: Emergency stop.
+ ...                                              
+                                                  
+l.69 \newcommand{\@ftsize}{}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+ 
+Here is how much of TeX's memory you used:
+ 177 strings out of 493089
+ 2315 string characters out of 6134842
+ 53199 words of memory out of 5000000
+ 3747 multiletter control sequences out of 15000+600000
+ 3746 words of font info for 15 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 16i,0n,17p,165b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
+./beavtex.cls:69:  ==> Fatal error occurred, no output PDF file produced!

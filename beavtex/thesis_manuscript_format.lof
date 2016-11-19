@@ -1,0 +1,19 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Cross section of VAR furnace. Image taken from Woodside et al.\nobreakspace {}\cite {Woodside:2013cf}\relax }}{4}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Diagram of the geometry employed in the model (not to scale)\relax }}{8}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Magnetic flux density norm with respect to arc location in Cartesian coordinates\relax }}{10}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Overhead cross-sectional diagram of a VAR furnace, shown with four two-axis magnetic field sensors and the geometry of the variables for one sensor\relax }}{11}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Predicted arc locations compared to exact locations (calculated using furnace coefficients $m_r$ = \SI {8.15e-8}{\newton \per \ampere \squared }, $m_t$ = \SI {4.98e-8}{\newton \per \ampere \squared })\relax }}{12}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Statistical error distribution of predicted arc locations with respect to vertical sensor position using constant furnace coefficients\relax }}{14}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Error distribution of predicted arc locations with respect to vertical sensor position using adaptive furnace coefficients\relax }}{15}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Arc location prediction trends for varying, single sensor position in the positive z direction with the origin at the sensor location (0,\SI {0.64}{\meter }) using constant furnace coefficients\relax }}{17}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Arc location predictions with varying gap height for a single sensor location\relax }}{18}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Error in predicted arc locations with varying contact zone height, mimicking ingot shrinkage\relax }}{19}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Arc location predictions for two sensors position on opposite sides of the furnace: (\SI {0}{\meter }, \SI {-0.64}{\meter }) and (\SI {0}{\meter }, \SI {0.64}{\meter })\relax }}{21}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Arc location predictions using four sensors around the furnace; these locations are the average of the locations predicted by each of the four sensors\relax }}{21}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Comparison of error distribution and magnitude from using one sensor versus four sensor averages; error is based on difference between predicted and exact values\relax }}{22}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Percent error statistical distribution for 1, 2, 4, 8, and 16 sensors\relax }}{22}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Error distribution of predicted arc locations with respect to vertical sensor position using the average results from four sensors\relax }}{23}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
